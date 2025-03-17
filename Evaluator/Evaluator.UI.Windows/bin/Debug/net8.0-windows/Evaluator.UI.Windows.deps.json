@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evaluator.UI.Windows/1.0.0": {
+        "dependencies": {
+          "Evaluator.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Evaluator.UI.Windows.dll": {}
+        }
+      },
+      "Evaluator.Logic/1.0.0": {
+        "runtime": {
+          "Evaluator.Logic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evaluator.UI.Windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Evaluator.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

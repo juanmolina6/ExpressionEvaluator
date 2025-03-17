@@ -1,0 +1,12 @@
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\bin\Debug\net8.0\Evaluator.Logic.deps.json
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\bin\Debug\net8.0\Evaluator.Logic.dll
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\bin\Debug\net8.0\Evaluator.Logic.pdb
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\obj\Debug\net8.0\Evaluator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\obj\Debug\net8.0\Evaluator.Logic.AssemblyInfoInputs.cache
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\obj\Debug\net8.0\Evaluator.Logic.AssemblyInfo.cs
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\obj\Debug\net8.0\Evaluator.Logic.csproj.CoreCompileInputs.cache
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\obj\Debug\net8.0\Evaluator.Logic.sourcelink.json
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\obj\Debug\net8.0\Evaluator.Logic.dll
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\obj\Debug\net8.0\refint\Evaluator.Logic.dll
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\obj\Debug\net8.0\Evaluator.Logic.pdb
+C:\Projects EdD\ExpressionEvaluator\ExpressionEvaluator\Evaluator\Evaluator.Logic\obj\Debug\net8.0\ref\Evaluator.Logic.dll
